@@ -1,0 +1,104 @@
+body {
+    background-color: #f2f2f2;
+}
+
+#btn_back {
+    margin: 10px 10px;
+}
+
+#bgc_page {
+    background-color: white;
+    width: 100%;
+}
+select{
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 25px;
+}
+option{
+    background-color: #fff;
+    border: rgb(187, 187, 187) solid 0.5px;
+}
+label{
+    padding-top:10px;
+}
+#table_sheet {
+    width: 100%;
+    margin: 0px auto;
+    padding: 30px;
+}
+
+.text_c {
+    margin-bottom: 30px;
+    margin-top: 55px;
+}
+
+#up_table {
+    border: 0.05px solid white;
+    background-color: white;
+    padding: 10px;
+}
+
+#top-selector {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: 340px;
+    margin: 10px auto;
+}
+
+#text_year {
+    font-size: 22px;
+    padding-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+#sel_year {
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 1px 5px;
+}
+
+#text_month {
+    font-size: 22px;
+    margin-left: 20px;
+    padding-top: 5px;
+}
+
+#sel_month {
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 1px 5px;
+}
+
+#search {
+    margin-left: 30px;
+    padding: 5px 8px;
+}
+
+.text_line {
+    color: #3a3a3a;
+    width: 100px;
+}
+
+#mat_table {
+    width: 80% ! important;
+    font-size: 14px;
+}
+
+.thead_search {
+    background-color: #f4f4f4;
+}
+
+.th_search {
+    text-align: center;
+}
+
+.th_search_details {
+    text-align: center;
+}
+
+.line-top {
+    border-left: 1px #000000 solid;
+}

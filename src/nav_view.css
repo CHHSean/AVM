@@ -1,0 +1,77 @@
+.header {
+    color: #595959;
+}
+
+.header-ch {
+    padding-top: 20px;
+    text-align: center;
+    margin: 20px;
+    font-family: 'Century Gothic', 'Lato', sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1rem;
+}
+
+.header-eng {
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 1rem;
+    letter-spacing: 0.3rem;
+    opacity: 0.6;
+}
+
+.home-img {
+    width: 25px;
+    height: auto;
+    margin-top: -5px;
+}
+
+.logout-img {
+    width: 25px;
+    height: auto;
+    margin-left: 8px;
+}
+
+.navbar {
+    background-color: #cecece;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+#home-link,
+#realtime-link {
+    color: white;
+}
+
+#manage-report,
+#doc-link {
+    color: white;
+    cursor: pointer;
+}
+
+#logout-link {
+    color: #4F4F4F;
+    margin-top: -5px;
+}
+
+.middle-img {
+    width: 60%;
+    height: auto;
+    margin-top: 50px
+}
+
+.dropdown-item:hover {
+    background-color: #dee3e8;
+}
+
+#log_out {
+    background-color: #d4d4d4;
+    border: 0.05px solid #d4d4d4;
+    border-radius: 5px;
+    color: #4F4F4F;
+    margin-top: -5px;
+}
+
+#log_out:hover {
+    background-color: #b3b3b3;
+    color: rgb(255, 255, 255);
+}

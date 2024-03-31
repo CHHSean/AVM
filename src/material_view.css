@@ -1,0 +1,162 @@
+body {
+    background-color: #f2f2f2;
+}
+
+#up_table {
+    border: 0.05px solid white;
+    background-color: white;
+}
+
+.text_c {
+    margin-bottom: 30px;
+    margin-top: 80px;
+}
+
+#middle_selector{
+    width: 270px;
+    padding: 10px;
+    margin:10px auto;
+    margin-bottom: 40px;
+    background-color: rgb(248, 248, 248);
+}
+#text_year {
+    font-size: 22px;
+    padding-top: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+#sel_year {
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 1px 1px;
+}
+
+#text_month {
+    font-size: 22px;
+    margin-left: 20px;
+    padding-top: 5px;
+}
+
+#sel_month {
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 1px 5px;
+}
+.text_line {
+    color: #3a3a3a;
+    width: 100px;
+}
+
+#config_table {
+    width: 60%;
+    margin: 70px auto;
+}
+
+.upload_csv {
+    color: #FF0000;
+}
+
+#add_table,#add_table_2 {
+    background-color: white;
+    border: white solid 0.05px;
+}
+.top-text{
+    border: solid 1px grey;
+}
+#change_btn,#change_btn_2 {
+    width:150px;
+    margin-top:80px;
+    margin-right:-25%;
+}
+#change_btn_search,#change_btn_search_2{
+    position:absolute;
+    top: 200px;
+    right: 200px;    
+}
+#text_add_cost {
+    margin-top: 80px;
+}
+
+.text_add_cost_line {
+    color: #f7f7f7;
+    width: 80px;
+}
+
+.add-form {
+    margin: 60px auto;
+    width: 30%;
+}
+
+#bgc_page {
+    background-color: white;
+    width: 100%;
+}
+
+#table_sheet,#table_sheet2 {
+    width: 60% ;
+    margin: 0px auto;
+    padding: 30px;
+}
+
+.text_search {
+    margin-bottom: 30px;
+    margin-top: 55px;
+}
+
+.text_search_line {
+    color: #3a3a3a;
+    width: 100px;
+}
+
+#mat_table {
+    width: 100%;
+    font-size: 14px;
+}
+
+.thead_search {
+    background-color: #f4f4f4;
+}
+
+.th_search {
+    text-align: center;
+}
+
+.line-top {
+    border-left: 1px #000000 solid;
+}
+
+.machine-top {
+    border-left: 1px #000000 solid;
+    border-right: 1px #000000 solid;
+}
+
+.th_search_details {
+    text-align: center;
+}
+
+#add_table {
+    background-color: white;
+    border: white solid 0.05px;
+}
+
+#modify_text {
+    margin-top: 80px;
+}
+
+#modify_line {
+    color: #f7f7f7;
+    width: 80px;
+}
+
+.modify-form {
+    margin-top: 60px;
+}
+
+td.details-control {
+    background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+}
